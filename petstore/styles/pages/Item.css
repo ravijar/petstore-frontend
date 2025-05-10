@@ -1,8 +1,5 @@
 .page-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 20px;
+    
 }
 
 .item-container-container {
@@ -11,6 +8,7 @@
 
 .item-container-card-container {
     z-index: 1;
+    margin-top: 20px;
     display: flex;
     justify-content: center;
 }
@@ -26,6 +24,6 @@
     z-index: 10;
     position: fixed;
     top: 75px;
-    right: 5px;
+    left: 5px;
 }
 
