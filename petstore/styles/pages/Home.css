@@ -1,0 +1,15 @@
+.page-container {
+
+}
+
+.hero-section-container {
+
+}
+
+.see-all-items-button-container {
+    z-index: 1;
+    position: absolute;
+    bottom: 50px;
+    left: 45%;
+}
+

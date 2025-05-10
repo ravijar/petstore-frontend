@@ -1,0 +1,18 @@
+.page-container {
+
+}
+
+.create-item-form-container {
+    z-index: 1;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.create-item-form-alert-container {
+    z-index: 10;
+    position: fixed;
+    top: 75px;
+    right: 5px;
+}
+

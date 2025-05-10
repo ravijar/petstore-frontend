@@ -1,0 +1,25 @@
+.page-container {
+
+}
+
+.item-container-container {
+
+}
+
+.item-container-card-container {
+    z-index: 1;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.item-add-to-cart-button-container {
+}
+
+.add-to-cart-button-alert-container {
+    z-index: 10;
+    position: fixed;
+    top: 75px;
+    right: 5px;
+}
+

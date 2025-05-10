@@ -1,0 +1,15 @@
+.page-container {
+
+}
+
+.items-search-bar-container {
+    z-index: 1;
+    margin: 10px 10px 0 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.items-container-card-section-container {
+
+}
+

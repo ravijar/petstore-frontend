@@ -1,0 +1,36 @@
+.page-container {
+
+}
+
+.cart-container-container {
+
+}
+
+.cart-table-container {
+
+}
+
+.remove-item-button-container {
+}
+
+.remove-item-button-alert-container {
+    z-index: 10;
+    position: fixed;
+    top: 75px;
+    right: 5px;
+}
+
+.place-order-button-container {
+    z-index: 1;
+    position: absolute;
+    bottom: 50px;
+    left: 45%;
+}
+
+.place-order-button-alert-container {
+    z-index: 10;
+    position: fixed;
+    top: 75px;
+    right: 5px;
+}
+
