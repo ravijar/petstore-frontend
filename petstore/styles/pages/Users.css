@@ -1,0 +1,25 @@
+.page-container {
+
+}
+
+.admin-users-container-container {
+
+}
+
+.admin-users-container-table-container {
+
+}
+
+.update-user-button-container {
+}
+
+.delete-user-button-container {
+}
+
+.delete-user-button-alert-container {
+    z-index: 10;
+    position: fixed;
+    top: 75px;
+    right: 5px;
+}
+

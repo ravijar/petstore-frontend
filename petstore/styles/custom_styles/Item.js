@@ -25,7 +25,7 @@ const styles = {
 
         },
     },
-    itemAddToCartButton : {
+    addToCartButton : {
         customButton : {
 
         },

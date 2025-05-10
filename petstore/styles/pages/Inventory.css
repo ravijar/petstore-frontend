@@ -1,0 +1,32 @@
+.page-container {
+
+}
+
+.create-item-button-container {
+    z-index: 1;
+    position: absolute;
+    bottom: 50px;
+    left: 45%;
+}
+
+.inventory-container-container {
+
+}
+
+.inventory-container-table-container {
+
+}
+
+.update-item-button-container {
+}
+
+.delete-item-button-container {
+}
+
+.delete-item-button-alert-container {
+    z-index: 10;
+    position: fixed;
+    top: 75px;
+    right: 5px;
+}
+
