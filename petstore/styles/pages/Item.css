@@ -1,5 +1,8 @@
 .page-container {
-
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
 }
 
 .item-container-container {
@@ -8,12 +11,15 @@
 
 .item-container-card-container {
     z-index: 1;
-    margin-top: 50px;
     display: flex;
     justify-content: center;
 }
 
 .add-to-cart-button-container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 200px 0 100px 200px;
+    align-items: center;
 }
 
 .add-to-cart-button-alert-container {
